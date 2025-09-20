@@ -33,3 +33,4 @@ vendor.sys.video.disable.ubwc=1
 
 # Camera
 vendor.camera.aux.packagelist=org.lineageos.snap,com.android.camera
+persist.vendor.camera.privapp.list=com.android.camera
