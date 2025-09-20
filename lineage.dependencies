@@ -10,5 +10,11 @@
   {
     "repository": "android_kernel_xiaomi_sm6250",
     "target_path": "kernel/xiaomi/sm6250"
+  },
+  {
+    "remote"      : "gitlab",
+    "branch"      : "fourteen",
+    "repository"  : "SonalSingh18/android_vendor_xiaomi_miuicamera",
+    "target_path" : "vendor/xiaomi/miuicamera"
   }
 ]
