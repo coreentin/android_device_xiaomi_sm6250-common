@@ -2,6 +2,7 @@
   {
     "repository": "InitFlo/vendor_xiaomi_miuicamera-miatoll",
     "target_path": "vendor/xiaomi/miuicamera"
+    "revision": "vic"
   },
   {
     "repository": "android_hardware_sony_timekeep",
