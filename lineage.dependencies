@@ -1,5 +1,9 @@
 [
   {
+    "repository": "InitFlo/vendor_xiaomi_miuicamera-miatoll",
+    "target_path": "vendor/xiaomi/miuicamera"
+  },
+  {
     "repository": "android_hardware_sony_timekeep",
     "target_path": "hardware/sony/timekeep"
   },
