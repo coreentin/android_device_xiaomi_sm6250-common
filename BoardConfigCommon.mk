@@ -188,3 +188,6 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 
 # Inherit proprietary blobs
 include vendor/xiaomi/sm6250-common/BoardConfigVendor.mk
+
+# Inherit MiuiCamera for Miatoll
+include vendor/xiaomi/miuicamera/BoardConfigMiuiCamera.mk
